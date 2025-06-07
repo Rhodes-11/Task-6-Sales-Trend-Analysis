@@ -1,4 +1,4 @@
-# Sales Trend Analysis - Task 6
+# Sales Trend Analysis
 
 ## Objective
 Analyze monthly revenue and order volume using SQL aggregations.
